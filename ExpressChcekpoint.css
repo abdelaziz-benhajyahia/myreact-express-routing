@@ -1,0 +1,27 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    /* height: 100vh; */
+}
+/* Nav Bar */
+#buy_button{
+    position: relative;
+    float: right;
+}
+/* Love Button */
+.likes_div, .num_items{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.love_btn {
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    font-size: 1.2em;
+    background: white;
+    color: #dc3545;
+    border-color: #dc3545;
+    border-style: solid;
+    border-radius: 50px;
+}

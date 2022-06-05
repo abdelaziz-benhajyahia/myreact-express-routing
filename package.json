@@ -1,0 +1,24 @@
+{
+  "name": "express_routing_checkpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "checkpoint",
+    "express",
+    "routing"
+  ],
+  "author": "Aziz",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.18.1",
+    "react-bootstrap": "^2.4.0"
+  }
+}
